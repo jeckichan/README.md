@@ -1,0 +1,16 @@
+# My Portfolio
+
+## About Me
+I'm a passionate coder interested in web development and AI.
+
+## Projects
+- [Project 1](https://github.com/yourusername/project1)
+- [Project 2](https://github.com/yourusername/project2)
+<!-- Add more projects as needed -->
+
+## Contact Me
+You can reach me at [youremail@example.com](mailto:youremail@example.com).
+
+---
+
+&copy; 2024 My Portfolio
